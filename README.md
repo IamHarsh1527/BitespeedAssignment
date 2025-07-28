@@ -1,9 +1,11 @@
-Hey Team , 
+Hi Team,
 
-let me tell you what you need to run this application.
-note - i havent hosted it anywhere , so you need to run it on local (please bear with me) 
-1 - you need to clone it 
-2 - you will need a MySql workbench and will need to configure it as per the application.properites file or vice versa
-3 - run it locally and try to hit the api via postman with the payloads you have provided in documnet.
+Just a quick note on how to run the application locally (as it's not hosted yet — thank you for bearing with me):
 
-Hope i am clear and you like the code.
+    Clone the repository to your local machine.
+
+    Set up MySQL Workbench and configure the database connection as per the application.properties file — or update the file to match your local MySQL setup.
+
+    Run the application locally, and test the /identify API using Postman with the sample payloads provided in the documentation.
+
+Hope everything is clear — and I hope you enjoy exploring the code!
